@@ -6,9 +6,28 @@
     <description>Recent content on rsmn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 25 Sep 2018 22:20:22 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 25 Sep 2018 22:20:22 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>tentang aku</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/post/hello/</link>
+      <pubDate>Tue, 25 Sep 2018 22:20:22 +0800</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>pahabaq</description>
+    </item>
     
   </channel>
 </rss>
