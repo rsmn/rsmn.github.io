@@ -21,12 +21,47 @@
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>/post/hello/</link>
-      <pubDate>Tue, 25 Sep 2018 22:20:22 +0800</pubDate>
+      <title>Pembangunan aplikasi perlu berapa ramai orang?</title>
+      <link>/post/pembangunan-aplikasi-perlu-berapa-ramai-orang/</link>
+      <pubDate>Sat, 22 Sep 2018 22:20:22 +0800</pubDate>
       
-      <guid>/post/hello/</guid>
-      <description>pahabaq</description>
+      <guid>/post/pembangunan-aplikasi-perlu-berapa-ramai-orang/</guid>
+      <description>Seperti biasa jawapan paling selamat adalah, ia bergantung (it depends) pada hasil akhir yang ingin dicapai.
+Kalau saya tanya anda nak buat rumah teres setingkat, boleh buat dengan tenaga seramai 1 orang? Tentulah boleh. Nak siap cepat atau lambat? Bergantung. Pada kemahiran, pada peralatan, dan sebagainya. Nak buat menara berkembar Petronas KLCC boleh buat 10 orang?***
+Dan sudah tentu semua perkara ini akan menentukan kos akhir pembangunan aplikasi tersebut.
+Secara umum, sebuah aplikasi memerlukan kepakaran-kepakaran seperti di bawah.</description>
+    </item>
+    
+    <item>
+      <title>Anda mahu buat aplikasi/apps?</title>
+      <link>/post/anda-mahu-buat-aplikasi-apps/</link>
+      <pubDate>Fri, 21 Sep 2018 22:20:22 +0800</pubDate>
+      
+      <guid>/post/anda-mahu-buat-aplikasi-apps/</guid>
+      <description>Umumnya bila sebut apps, orang akan terbayang perisian yang digunakan pada peranti mudah alih anda.
+Tak semestinya. Aplikasi boleh dipasang dan dijalankan pada pelbagai platform.
+Secara mudahnya kita boleh bahagikan kepada beberapa kategori: 1. Aplikasi Mudah Alih 2. Aplikasi Desktop 3. Aplikasi Web
+Aplikasi Mudah Alih yang dominan di pasaran sekarang adalah aplikasi yang dimuat turun pada sistem operasi Android dan iOS. Contoh aplikasi mudah alih adalah Facebook for Android, Facebook for iOS, dan apa-apa lagi perisian yang anda jumpa di dalam Google Play Store atau Apple App Store.</description>
+    </item>
+    
+    <item>
+      <title>Belajar benda baharu</title>
+      <link>/post/belajar-benda-baharu/</link>
+      <pubDate>Thu, 20 Sep 2018 22:20:22 +0800</pubDate>
+      
+      <guid>/post/belajar-benda-baharu/</guid>
+      <description>Dua tiga minggu ni saya diberi kesempatan untuk mengajar sekumpulan pelajar satu subjek yang tidak disukai ramai iaitu pengaturcaraan (programming). Mereka ini rata-rata tidak mempunyai latar belakang programming.
+Ruang kepakaran (domain expert) pelajar-pelajar saya ini adalah dalam bidang lain, iaitu biologi. Mereka belajar programming kerana mereka ada data-data yang sangat banyak, dan mereka ingin membangunkan sistem aplikasi yang boleh mengurus data-data ini.
+Bila saya tengok muka-muka mereka waktu sesi pembelajaran tu, memang jelas terpancar di wajah mereka betapa mencabarnya nak belajar bendalah ni.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/anatomi-aplikasi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/anatomi-aplikasi/</guid>
+      <description></description>
     </item>
     
   </channel>
