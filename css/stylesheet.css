@@ -1,5 +1,5 @@
 body {
-    font-family: -apple-system,BlinkMacSystemFont,"Rubik",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
+    font-family: -apple-system,BlinkMacSystemFont,"Rubik",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     margin: auto;
     max-width: 50em;
 }
@@ -89,9 +89,8 @@ blockquote {
 }
 
 img {
-    /*display: block;
+    display: block;
     max-width: 100%;
     margin: 0 auto;
-    height: auto;*/
-    width: 75%;
+    height: auto;
 }
