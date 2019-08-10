@@ -8,6 +8,18 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2018-10-13T23:39:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-10-13T23:39:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/pelan-lantai/</loc>
     <lastmod>2018-10-02T21:08:49+08:00</lastmod>
   </url>
@@ -43,19 +55,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-10-13T23:39:19+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-10-13T23:39:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
