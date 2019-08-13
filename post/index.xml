@@ -6,17 +6,30 @@
     <description>Recent content in Posts on sembang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 23:39:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 07:35:07 +0800</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Cipta aplikasi tanpa pengekodan</title>
+      <link>/post/20190812-cipta-aplikasi-tanpa-pengekodan/</link>
+      <pubDate>Mon, 12 Aug 2019 07:35:07 +0800</pubDate>
+      
+      <guid>/post/20190812-cipta-aplikasi-tanpa-pengekodan/</guid>
+      <description>Boleh ke cipta aplikasi tanpa pengekodan?
+Boleh sebenarnya.
+Beberapa perkhidmatan telah wujud sebelum ini dan sedikit sebanyak memberi impak kepada ruangan ini.
+ Wix Squarespace Webflow Wordpress Blogger  Tapi kebanyakan perkhidmatan tersebut lebih memberi fokus kepada laman sesawang dengan kandungan statik dan juga bagi kategori yang terhad seperti e-dagang dan blog.
+Bagaimana pula kalau kita nak cipta aplikasi yang lebih berbentuk internal tools atau alat dalaman seperti rekod kehadiran staf, laporan perbelanjaan ejen, sistem pengurusan calon temuduga kerja/latihan industri di syarikat, dan sebagainya?</description>
+    </item>
+    
+    <item>
       <title>E-Sukan</title>
-      <link>/post/e-sukan/</link>
+      <link>/post/20181013-e-sukan/</link>
       <pubDate>Sat, 13 Oct 2018 23:39:19 +0800</pubDate>
       
-      <guid>/post/e-sukan/</guid>
+      <guid>/post/20181013-e-sukan/</guid>
       <description>Saya terjebak dalam bidang kejuruteraan perisian ni antara sebabnya adalah waktu kecil saya banyak masa diluangkan dengan bermain permainan video.
  &amp;ldquo;Bang orang lain pun main game jugak tapi apsal tak terjebak dalam pengaturcaraan macam abang?&amp;rdquo;
  Saya pun tiap-tiap hari makan dan saya tak terjebak pun dalam dunia masakan.
@@ -25,10 +38,10 @@ Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding pengh
     
     <item>
       <title>Pelan Lantai</title>
-      <link>/post/pelan-lantai/</link>
+      <link>/post/20181002-pelan-lantai/</link>
       <pubDate>Tue, 02 Oct 2018 21:08:49 +0800</pubDate>
       
-      <guid>/post/pelan-lantai/</guid>
+      <guid>/post/20181002-pelan-lantai/</guid>
       <description>Dalam hantaran yang lepas saya membawakan pada anda kisah kedai karipap. Ia sebenarnya adalah satu analogi untuk memudahkan saya menerangkan tentang pembinaan aplikasi.
 Kali ini saya nak bawa konteks yang sama. Untuk membina sebuah kedai karipap, tentunya ada satu peringkat yang kita panggil sebagai merekabentuk. Salah satu dokumen kita akan hasilkan adalah pelan lantai.
 Begitu juga apabila membina sebuah aplikasi. Kita ada pelan lantai yang perlu dihasilkan.
@@ -37,10 +50,10 @@ Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</desc
     
     <item>
       <title>Anatomi Aplikasi</title>
-      <link>/post/anatomi-aplikasi/</link>
+      <link>/post/20180923-anatomi-aplikasi/</link>
       <pubDate>Sun, 23 Sep 2018 22:20:22 +0800</pubDate>
       
-      <guid>/post/anatomi-aplikasi/</guid>
+      <guid>/post/20180923-anatomi-aplikasi/</guid>
       <description>&amp;ldquo;Bro boleh buatkan aku a simple app?&amp;rdquo;
  Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
 Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
@@ -51,10 +64,10 @@ Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada
     
     <item>
       <title>Pembangunan aplikasi perlu berapa ramai orang?</title>
-      <link>/post/pembangunan-aplikasi-perlu-berapa-ramai-orang/</link>
+      <link>/post/20180922-pembangunan-aplikasi-perlu-berapa-ramai-orang/</link>
       <pubDate>Sat, 22 Sep 2018 22:20:22 +0800</pubDate>
       
-      <guid>/post/pembangunan-aplikasi-perlu-berapa-ramai-orang/</guid>
+      <guid>/post/20180922-pembangunan-aplikasi-perlu-berapa-ramai-orang/</guid>
       <description>Seperti biasa jawapan paling selamat adalah, ia bergantung (it depends) pada hasil akhir yang ingin dicapai.
 Kalau saya tanya anda nak buat rumah teres setingkat, boleh buat dengan tenaga seramai 1 orang? Tentulah boleh. Nak siap cepat atau lambat? Bergantung. Pada kemahiran, pada peralatan, dan sebagainya. Nak buat menara berkembar Petronas KLCC boleh buat 10 orang?***
 Dan sudah tentu semua perkara ini akan menentukan kos akhir pembangunan aplikasi tersebut.
@@ -63,10 +76,10 @@ Secara umum, sebuah aplikasi memerlukan kepakaran-kepakaran seperti di bawah.</d
     
     <item>
       <title>Anda mahu buat aplikasi/apps?</title>
-      <link>/post/anda-mahu-buat-aplikasi-apps/</link>
+      <link>/post/20180921-anda-mahu-buat-aplikasi-apps/</link>
       <pubDate>Fri, 21 Sep 2018 22:20:22 +0800</pubDate>
       
-      <guid>/post/anda-mahu-buat-aplikasi-apps/</guid>
+      <guid>/post/20180921-anda-mahu-buat-aplikasi-apps/</guid>
       <description>Umumnya bila sebut apps, orang akan terbayang perisian yang digunakan pada peranti mudah alih anda.
 Tak semestinya. Aplikasi boleh dipasang dan dijalankan pada pelbagai platform.
 Secara mudahnya kita boleh bahagikan kepada beberapa kategori:
@@ -75,10 +88,10 @@ Secara mudahnya kita boleh bahagikan kepada beberapa kategori:
     
     <item>
       <title>Belajar benda baharu</title>
-      <link>/post/belajar-benda-baharu/</link>
+      <link>/post/20180920-belajar-benda-baharu/</link>
       <pubDate>Thu, 20 Sep 2018 22:20:22 +0800</pubDate>
       
-      <guid>/post/belajar-benda-baharu/</guid>
+      <guid>/post/20180920-belajar-benda-baharu/</guid>
       <description>Dua tiga minggu ni saya diberi kesempatan untuk mengajar sekumpulan pelajar satu subjek yang tidak disukai ramai iaitu pengaturcaraan (programming). Mereka ini rata-rata tidak mempunyai latar belakang programming.
 Ruang kepakaran (domain expert) pelajar-pelajar saya ini adalah dalam bidang lain, iaitu biologi. Mereka belajar programming kerana mereka ada data-data yang sangat banyak, dan mereka ingin membangunkan sistem aplikasi yang boleh mengurus data-data ini.
 Bila saya tengok muka-muka mereka waktu sesi pembelajaran tu, memang jelas terpancar di wajah mereka betapa mencabarnya nak belajar bendalah ni.</description>
