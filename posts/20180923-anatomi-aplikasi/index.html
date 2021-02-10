@@ -1,57 +1,64 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<html><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Anatomi Aplikasi - sembang</title><meta name="viewport" content="width=device-width, initial-scale=1">
 
-        
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="Anatomi Aplikasi" />
+<meta property="og:description" content="&ldquo;Bro boleh buatkan aku a simple app?&rdquo;
+ Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
+Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
+Pengesahan (Authentication) Senang cerita, sistem daftar akaun, log masuk, log keluar.
+Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
+Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada ruangan untuk setiap pengguna menyimpan tetapan yang khusus untuk dirinya sahaja." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rsmn.github.io/posts/20180923-anatomi-aplikasi/" />
+<meta property="article:published_time" content="2018-09-23T22:20:22+08:00" />
+<meta property="article:modified_time" content="2018-09-23T22:20:22+08:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Anatomi Aplikasi"/>
+<meta name="twitter:description" content="&ldquo;Bro boleh buatkan aku a simple app?&rdquo;
+ Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
+Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
+Pengesahan (Authentication) Senang cerita, sistem daftar akaun, log masuk, log keluar.
+Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
+Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada ruangan untuk setiap pengguna menyimpan tetapan yang khusus untuk dirinya sahaja."/>
+<script src="https://rsmn.github.io/js/feather.min.js"></script>
+	
+	<link href="https://rsmn.github.io/css/fonts.css" rel="stylesheet">
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="https://rsmn.github.io/css/main.css" /><link rel="stylesheet" type="text/css" href="https://rsmn.github.io/css/dark.css" media="(prefers-color-scheme: dark)" />
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="https://rsmn.github.io/">sembang</a>
+	</div>
+	<nav>
+		
+		<a href="/">Utama</a>
+		
+		<a href="/posts">Hantaran</a>
+		
+		<a href="/about">Laman ini</a>
+		
+		<a href="/tags">Tags</a>
+		
+	</nav>
+</header>
 
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono" rel="stylesheet"> 
-        <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet"> 
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">Anatomi Aplikasi</h1>
+			<div class="meta">Posted on Sep 23, 2018</div>
+		</div>
+		
 
-        <title>Anatomi Aplikasi</title>
-
-        <link rel="stylesheet" href="/css/stylesheet.css">
-    </head>
-    <body>
-      <div class="container-fluid">
-        <nav class="navbar navbar-expand-md navbar-light">
-
-          
-          <span class="navbar-brand mb-0 h1"></span>
-
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navigation" name="button">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-              <a class="nav-item nav-link " href="/">Utama</a>
-              
-              
-              <a class="nav-item nav-link " href="/about/">Tentang sembang</a>
-            </div>
-          </div>
-        </nav>
-
-        <section id="page-title">
-          <h1><a href="/">sembang</a></h1>
-          <span id="author-name">
-            <h6><a href="/about/">rsmn</a></h6>
-          </span>
-        </section>
-
-
-<div class="blog-post">
-  <h1>Anatomi Aplikasi</h1>
-  
-  <div class="blog-post-subheader">
-    <time>23 Sep 2018</time>
-  </div>
-  
-  <div class="blog-post-content">
-    <blockquote>
+		<section class="body">
+			<blockquote>
 <p>&ldquo;Bro boleh buatkan aku a simple app?&rdquo;</p>
 </blockquote>
 <p>Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.</p>
@@ -89,29 +96,43 @@
 <h4 id="pembangunan-dan-penyelenggaraan-infrastruktur-pelayan">Pembangunan dan Penyelenggaraan Infrastruktur Pelayan</h4>
 <p>Aplikasi yang dibina perlu dijalankan di atas infrastruktur yang kukuh. Aplikasi yang ingin menampung pengguna seramai 10 orang sudah tentu tidak sama dengan aplikasi yang ingin menampung 1,000,000 orang.</p>
 
-  </div>
-</div>
-<script src="https://utteranc.es/client.js"
-        repo="rsmn/rsmn.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+		</section>
 
-      <footer>
-        <hr>
-        <small>
-          &copy; 2021 rsmn.
-          Dikuasakan oleh <a href="https://gohugo.io/" target="_blank">Hugo</a> menggunakan tema <a href="https://github.com/arjunkrishnababu96/basics" target="_blank">Basics</a>.
-        </small>
-      </footer>
-    </div> 
+		<div class="post-tags">
+			
+			
+			
+		</div>
+	</article>
+	
+	<div id="disqus_thread"></div>
+<script type="text/javascript">
 
+(function() {
     
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-  </body>
-</html>
+    
+    if (window.location.hostname == "localhost")
+        return;
 
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'rsmn-sembang';
+    console.log(disqus_shortname);
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</main>
+<footer>
+<hr><a class="soc" href="https://github.com/rsmn" title="GitHub"><i data-feather="github"></i></a>|<a class="soc" href="https://github.com/rusmanarief/" title="Twitter"><i data-feather="twitter"></i></a>|⚡️
+	2021  © rsmn |  <a href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+</footer>
+
+
+<script>
+      feather.replace()
+</script></div>
+    </body>
+</html>

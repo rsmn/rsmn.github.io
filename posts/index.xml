@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sembang</title>
-    <link>https://rsmn.github.io/</link>
-    <description>Recent content on sembang</description>
+    <title>Posts on sembang</title>
+    <link>https://rsmn.github.io/posts/</link>
+    <description>Recent content in Posts on sembang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© rsmn</copyright>
-    <lastBuildDate>Mon, 12 Aug 2019 07:35:07 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2019 07:35:07 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cipta aplikasi tanpa pengekodan</title>
       <link>https://rsmn.github.io/posts/20190812-cipta-aplikasi-tanpa-pengekodan/</link>
@@ -43,16 +43,6 @@ Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding pengh
 Kali ini saya nak bawa konteks yang sama. Untuk membina sebuah kedai karipap, tentunya ada satu peringkat yang kita panggil sebagai merekabentuk. Salah satu dokumen kita akan hasilkan adalah pelan lantai.
 Begitu juga apabila membina sebuah aplikasi. Kita ada pelan lantai yang perlu dihasilkan.
 Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</description>
-    </item>
-    
-    <item>
-      <title>Laman ini</title>
-      <link>https://rsmn.github.io/about/</link>
-      <pubDate>Tue, 25 Sep 2018 22:20:22 +0800</pubDate>
-      
-      <guid>https://rsmn.github.io/about/</guid>
-      <description>Sembang adalah tempat saya bersembang dengan anda. Tiada ruangan komen di sini maka ia bukanlah tempat anda bersembang dengan saya.
-Namun begitu sekiranya anda ingin bersembang dengan saya, boleh call terus saya. Kalau anda kenal saya tentu anda memiliki nombor telefon saya.</description>
     </item>
     
     <item>
