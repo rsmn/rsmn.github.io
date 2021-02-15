@@ -298,3 +298,10 @@ content: 'Markdown';
 background: royalblue;
 color: whitesmoke ;
 }
+table, th, td {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+table {
+  border-collapse: collapse;
+}

@@ -157,3 +157,6 @@ a:hover {
   background: royalblue;
   color: whitesmoke ;
 }
+table, th, td {
+  border: 1px solid white;
+}
