@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rsmn.github.io/posts/20190812-cipta-aplikasi-tanpa-pengekodan/</loc>
-    <lastmod>2019-08-12T07:35:07+08:00</lastmod>
+    <loc>https://rsmn.github.io/tags/aplikasi/</loc>
+    <lastmod>2021-02-10T09:58:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsmn.github.io/posts/20210210-memiliki-aplikasi-sendiri/</loc>
+    <lastmod>2021-02-10T09:58:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsmn.github.io/posts/</loc>
-    <lastmod>2019-08-12T07:35:07+08:00</lastmod>
+    <lastmod>2021-02-10T09:58:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsmn.github.io/</loc>
+    <lastmod>2021-02-10T09:58:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsmn.github.io/tags/</loc>
+    <lastmod>2021-02-10T09:58:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsmn.github.io/posts/20190812-cipta-aplikasi-tanpa-pengekodan/</loc>
     <lastmod>2019-08-12T07:35:07+08:00</lastmod>
   </url>
   
@@ -54,10 +69,6 @@
   
   <url>
     <loc>https://rsmn.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rsmn.github.io/tags/</loc>
   </url>
   
 </urlset>
