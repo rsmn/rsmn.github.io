@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© rsmn</copyright>
-    <lastBuildDate>Wed, 10 Feb 2021 09:58:43 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 08:56:08 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membedah Keperluan Pengguna</title>
+      <link>https://rsmn.github.io/posts/20210216-membedah-keperluan-pengguna/</link>
+      <pubDate>Tue, 16 Feb 2021 08:56:08 +0800</pubDate>
+      
+      <guid>https://rsmn.github.io/posts/20210216-membedah-keperluan-pengguna/</guid>
+      <description>Sepanjang proses mencungkil keperluan pengguna (eliciting user requirements) untuk menghasilkan aplikasi tersuai, bacaan saya adalah kebanyakan pengguna tahu secara kasar apa mereka mahu. Masalah yang dihadapi biasanya mudah untuk diceritakan. Tapi tidak ramai yang tahu secara terperinci bentuk solusi yang diinginkan secara terperinci.
+Ada pembuat aplikasi yang mengenakan caj untuk proses konsultasi bagi menghasilkan dokumen keperluan pengguna, terutamanya bagi projek yang ultra besar dan ultra rumit. Ada juga yang memberikan secara percuma (atau mungkin diserap dalam kos akhir).</description>
+    </item>
+    
     <item>
       <title>Memiliki Aplikasi Sendiri</title>
       <link>https://rsmn.github.io/posts/20210210-memiliki-aplikasi-sendiri/</link>
