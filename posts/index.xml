@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© rsmn</copyright>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 08:56:08 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Membedah Keperluan Pengguna</title>
       <link>https://rsmn.github.io/posts/20210216-membedah-keperluan-pengguna/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 08:56:08 +0800</pubDate>
       
       <guid>https://rsmn.github.io/posts/20210216-membedah-keperluan-pengguna/</guid>
       <description>Sepanjang proses mencungkil keperluan pengguna (eliciting user requirements) untuk menghasilkan aplikasi tersuai, bacaan saya adalah kebanyakan pengguna tahu secara kasar apa mereka mahu. Masalah yang dihadapi biasanya mudah untuk diceritakan. Tapi tidak ramai yang tahu secara terperinci bentuk solusi yang diinginkan.
@@ -50,7 +50,7 @@ Bagaimana pula kalau kita nak cipta aplikasi yang lebih berbentuk internal tools
       <description>Saya terjebak dalam bidang kejuruteraan perisian ni antara sebabnya adalah waktu kecil saya banyak masa diluangkan dengan bermain permainan video.
  &amp;ldquo;Bang orang lain pun main game jugak tapi apsal tak terjebak dalam pengaturcaraan macam abang?&amp;rdquo;
  Saya pun tiap-tiap hari makan dan saya tak terjebak pun dalam dunia masakan.
-Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding penghasil. Kita sedut oksigen, itu pengguna. Kita makan minum, itu pengguna.</description>
+Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding penghasil. Kita sedut oksigen, itu pengguna.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding pengh
       <description>Dalam hantaran yang lepas saya membawakan pada anda kisah kedai karipap. Ia sebenarnya adalah satu analogi untuk memudahkan saya menerangkan tentang pembinaan aplikasi.
 Kali ini saya nak bawa konteks yang sama. Untuk membina sebuah kedai karipap, tentunya ada satu peringkat yang kita panggil sebagai merekabentuk. Salah satu dokumen kita akan hasilkan adalah pelan lantai.
 Begitu juga apabila membina sebuah aplikasi. Kita ada pelan lantai yang perlu dihasilkan.
-Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</description>
+   Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@ Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</desc
  Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
 Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
 Pengesahan (Authentication) Senang cerita, sistem daftar akaun, log masuk, log keluar.
-Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
+   Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
 Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada ruangan untuk setiap pengguna menyimpan tetapan yang khusus untuk dirinya sahaja.</description>
     </item>
     
