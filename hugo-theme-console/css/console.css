@@ -195,7 +195,7 @@ figure {
 
 .posts-list {
     position: relative;
-    padding-left: 130px;
+    padding-left: 50px;
     top: 0;
 }
 
@@ -250,12 +250,6 @@ figure {
         margin-right: 30px;
     }
 
-    .posts-list {
-        position: relative;
-        padding-left: 0;
-        top: 0;
-    }
-
     .post h1, .post h2 {
         padding-top: 0;
     }
@@ -268,9 +262,7 @@ figure {
         z-index: 400;
         font-weight: bold;
         padding-top: 0;
-        display: none;
     }
-
 
     .footer {
         margin-top: 50px;
