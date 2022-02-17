@@ -16,7 +16,8 @@
       <guid>https://rsmn.github.io/posts/20211130-memudahkan-kerja-pengaturcara-backend/</guid>
       <description>Secara ideal kita memerlukan peranan-peranan yang berikut sekurang-kurangnya dalam sebuah syarikat yang menghasilkan aplikasi:
  Pembangun/Pengaturcara (Developer/Programmer) Pereka UI/UX atau Pereka Produk (UI/UX Designer/Product Designer) Pengurus Produk atau Penganalisa Perniagaan (Product Manager/Business Analyst)  (Boleh rujuk hantaran 3 tahun lepas)
-Bagi syarikat yang bermodal kecil dan baru sahaja memulakan perniagaan, menggajikan seorang staf adalah suatu yang besar dan memerlukan perkiraan yang terperinci. Apatah lagi nak menggajikan 3 orang.</description>
+Bagi syarikat yang bermodal kecil dan baru sahaja memulakan perniagaan, menggajikan seorang staf adalah suatu yang besar dan memerlukan perkiraan yang terperinci. Apatah lagi nak menggajikan 3 orang.
+Jadi apa yang berlaku selalunya adalah syarikat akan menggajikan 1 orang sahaja dan ketiga-tiga peranan tersebut perlu diisi dan dimainkan olehnya.</description>
     </item>
     
     <item>
@@ -61,7 +62,7 @@ Bagaimana pula kalau kita nak cipta aplikasi yang lebih berbentuk internal tools
       <description>Saya terjebak dalam bidang kejuruteraan perisian ni antara sebabnya adalah waktu kecil saya banyak masa diluangkan dengan bermain permainan video.
  &amp;ldquo;Bang orang lain pun main game jugak tapi apsal tak terjebak dalam pengaturcaraan macam abang?&amp;rdquo;
  Saya pun tiap-tiap hari makan dan saya tak terjebak pun dalam dunia masakan.
-Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding penghasil. Kita sedut oksigen, itu pengguna.</description>
+Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding penghasil. Kita sedut oksigen, itu pengguna. Kita makan minum, itu pengguna.</description>
     </item>
     
     <item>
@@ -73,7 +74,7 @@ Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding pengh
       <description>Dalam hantaran yang lepas saya membawakan pada anda kisah kedai karipap. Ia sebenarnya adalah satu analogi untuk memudahkan saya menerangkan tentang pembinaan aplikasi.
 Kali ini saya nak bawa konteks yang sama. Untuk membina sebuah kedai karipap, tentunya ada satu peringkat yang kita panggil sebagai merekabentuk. Salah satu dokumen kita akan hasilkan adalah pelan lantai.
 Begitu juga apabila membina sebuah aplikasi. Kita ada pelan lantai yang perlu dihasilkan.
-   Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</description>
+Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</description>
     </item>
     
     <item>
@@ -86,7 +87,7 @@ Begitu juga apabila membina sebuah aplikasi. Kita ada pelan lantai yang perlu di
  Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
 Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
 Pengesahan (Authentication) Senang cerita, sistem daftar akaun, log masuk, log keluar.
-   Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
+Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
 Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada ruangan untuk setiap pengguna menyimpan tetapan yang khusus untuk dirinya sahaja.</description>
     </item>
     
