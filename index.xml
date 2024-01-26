@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sembang</title>
+    <title>rsmn</title>
     <link>https://rsmn.github.io/</link>
-    <description>Recent content on sembang</description>
+    <description>Recent content on rsmn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© rsmn</copyright>
+    <language>en</language>
+    <copyright>© 2024 rsmn</copyright>
     <lastBuildDate>Tue, 30 Nov 2021 07:40:08 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memudahkan kerja pengaturcara backend</title>
@@ -15,9 +15,8 @@
       
       <guid>https://rsmn.github.io/posts/20211130-memudahkan-kerja-pengaturcara-backend/</guid>
       <description>Secara ideal kita memerlukan peranan-peranan yang berikut sekurang-kurangnya dalam sebuah syarikat yang menghasilkan aplikasi:
- Pembangun/Pengaturcara (Developer/Programmer) Pereka UI/UX atau Pereka Produk (UI/UX Designer/Product Designer) Pengurus Produk atau Penganalisa Perniagaan (Product Manager/Business Analyst)  (Boleh rujuk hantaran 3 tahun lepas)
-Bagi syarikat yang bermodal kecil dan baru sahaja memulakan perniagaan, menggajikan seorang staf adalah suatu yang besar dan memerlukan perkiraan yang terperinci. Apatah lagi nak menggajikan 3 orang.
-Jadi apa yang berlaku selalunya adalah syarikat akan menggajikan 1 orang sahaja dan ketiga-tiga peranan tersebut perlu diisi dan dimainkan olehnya.</description>
+Pembangun/Pengaturcara (Developer/Programmer) Pereka UI/UX atau Pereka Produk (UI/UX Designer/Product Designer) Pengurus Produk atau Penganalisa Perniagaan (Product Manager/Business Analyst) (Boleh rujuk hantaran 3 tahun lepas)</description>
+      
     </item>
     
     <item>
@@ -26,8 +25,8 @@ Jadi apa yang berlaku selalunya adalah syarikat akan menggajikan 1 orang sahaja 
       <pubDate>Tue, 16 Feb 2021 08:56:08 +0800</pubDate>
       
       <guid>https://rsmn.github.io/posts/20210216-membedah-keperluan-pengguna/</guid>
-      <description>Sepanjang proses mencungkil keperluan pengguna (eliciting user requirements) untuk menghasilkan aplikasi tersuai, bacaan saya adalah kebanyakan pengguna tahu secara kasar apa mereka mahu. Masalah yang dihadapi biasanya mudah untuk diceritakan. Tapi tidak ramai yang tahu secara terperinci bentuk solusi yang diinginkan.
-Ada pembuat aplikasi yang mengenakan caj untuk proses konsultasi bagi menghasilkan dokumen keperluan pengguna, terutamanya bagi projek yang ultra besar dan ultra rumit. Ada juga yang memberikan secara percuma (atau mungkin diserap dalam kos akhir).</description>
+      <description>Sepanjang proses mencungkil keperluan pengguna (eliciting user requirements) untuk menghasilkan aplikasi tersuai, bacaan saya adalah kebanyakan pengguna tahu secara kasar apa mereka mahu. Masalah yang dihadapi biasanya mudah untuk diceritakan. Tapi tidak ramai yang tahu secara terperinci bentuk solusi yang diinginkan.</description>
+      
     </item>
     
     <item>
@@ -36,8 +35,8 @@ Ada pembuat aplikasi yang mengenakan caj untuk proses konsultasi bagi menghasilk
       <pubDate>Wed, 10 Feb 2021 09:58:43 +0800</pubDate>
       
       <guid>https://rsmn.github.io/posts/20210210-memiliki-aplikasi-sendiri/</guid>
-      <description>Kalau saya tanya berapa harga kereta Myvi, mungkin ramai yang boleh beritahu saya harganya sekarang. Tetapi kalau saya tanya berapa harga kalau nak mintak kereta yang ada enjin Proton Preve, interior Honda City, sistem brek Perodua Myvi, dan gabungan beberapa lagi jenama lain, pasti sukar nak meneka harga.
-Kesukaran meneka harga ini bukanlah sesuatu yang mengejutkan. Sekarang kalau anda tanya pula mereka yang pakar dalam bidang automotif, pasti mereka tahu untuk mengagak harga kereta gabungan ini.</description>
+      <description>Kalau saya tanya berapa harga kereta Myvi, mungkin ramai yang boleh beritahu saya harganya sekarang. Tetapi kalau saya tanya berapa harga kalau nak mintak kereta yang ada enjin Proton Preve, interior Honda City, sistem brek Perodua Myvi, dan gabungan beberapa lagi jenama lain, pasti sukar nak meneka harga.</description>
+      
     </item>
     
     <item>
@@ -49,8 +48,8 @@ Kesukaran meneka harga ini bukanlah sesuatu yang mengejutkan. Sekarang kalau and
       <description>Boleh ke cipta aplikasi tanpa pengekodan?
 Boleh sebenarnya.
 Beberapa perkhidmatan telah wujud sebelum ini dan sedikit sebanyak memberi impak kepada ruangan ini.
- Wix Squarespace Webflow Wordpress Blogger  Tapi kebanyakan perkhidmatan tersebut lebih memberi fokus kepada laman sesawang dengan kandungan statik dan juga bagi kategori yang terhad seperti e-dagang dan blog.
-Bagaimana pula kalau kita nak cipta aplikasi yang lebih berbentuk internal tools atau alat dalaman seperti rekod kehadiran staf, laporan perbelanjaan ejen, sistem pengurusan calon temuduga kerja/latihan industri di syarikat, dan sebagainya?</description>
+Wix Squarespace Webflow Wordpress Blogger Tapi kebanyakan perkhidmatan tersebut lebih memberi fokus kepada laman sesawang dengan kandungan statik dan juga bagi kategori yang terhad seperti e-dagang dan blog.</description>
+      
     </item>
     
     <item>
@@ -60,9 +59,8 @@ Bagaimana pula kalau kita nak cipta aplikasi yang lebih berbentuk internal tools
       
       <guid>https://rsmn.github.io/posts/20181013-e-sukan/</guid>
       <description>Saya terjebak dalam bidang kejuruteraan perisian ni antara sebabnya adalah waktu kecil saya banyak masa diluangkan dengan bermain permainan video.
- &amp;ldquo;Bang orang lain pun main game jugak tapi apsal tak terjebak dalam pengaturcaraan macam abang?&amp;rdquo;
- Saya pun tiap-tiap hari makan dan saya tak terjebak pun dalam dunia masakan.
-Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding penghasil. Kita sedut oksigen, itu pengguna. Kita makan minum, itu pengguna.</description>
+&amp;ldquo;Bang orang lain pun main game jugak tapi apsal tak terjebak dalam pengaturcaraan macam abang?</description>
+      
     </item>
     
     <item>
@@ -72,9 +70,8 @@ Dalam hidup kita ni memang banyak benda yang kita jadi pengguna berbanding pengh
       
       <guid>https://rsmn.github.io/posts/20181002-pelan-lantai/</guid>
       <description>Dalam hantaran yang lepas saya membawakan pada anda kisah kedai karipap. Ia sebenarnya adalah satu analogi untuk memudahkan saya menerangkan tentang pembinaan aplikasi.
-Kali ini saya nak bawa konteks yang sama. Untuk membina sebuah kedai karipap, tentunya ada satu peringkat yang kita panggil sebagai merekabentuk. Salah satu dokumen kita akan hasilkan adalah pelan lantai.
-Begitu juga apabila membina sebuah aplikasi. Kita ada pelan lantai yang perlu dihasilkan.
-Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</description>
+Kali ini saya nak bawa konteks yang sama.</description>
+      
     </item>
     
     <item>
@@ -83,9 +80,8 @@ Ada banyak jenis &amp;ldquo;pelan lantai&amp;rdquo; yang perlu dihasilkan.</desc
       <pubDate>Tue, 25 Sep 2018 22:20:22 +0800</pubDate>
       
       <guid>https://rsmn.github.io/about/</guid>
-      <description>Saya Rusman. Sekarang berkhidmat sebagai Ketua Teknikal di Aeronerve.
-Sembang adalah tempat saya bersembang dengan anda. Boleh tinggalkan komen jika ingin bersembang dengan saya.
-Atau boleh call terus saya. Kalau anda kenal saya tentu anda memiliki nombor telefon saya.</description>
+      <description>Saya Rusman. Sekarang berkhidmat sebagai Pengurus Jabatan Pembangunan Produk (Engineering Manager + Product Manager) di Aeronerve.</description>
+      
     </item>
     
     <item>
@@ -95,11 +91,10 @@ Atau boleh call terus saya. Kalau anda kenal saya tentu anda memiliki nombor tel
       
       <guid>https://rsmn.github.io/posts/20180923-anatomi-aplikasi/</guid>
       <description>&amp;ldquo;Bro boleh buatkan aku a simple app?&amp;rdquo;
- Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
+Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
 Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
-Pengesahan (Authentication) Senang cerita, sistem daftar akaun, log masuk, log keluar.
-Kebenaran (Authorization) Siapa boleh akses apa. Pentadbir (Administrator) mempunyai peranan (role) dan kebenaran (permission) yang lebih banyak daripada pengguna biasa. Contohnya, ruangan Dashboard hanya boleh diakses oleh Pentadbir sahaja.
-Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada ruangan untuk setiap pengguna menyimpan tetapan yang khusus untuk dirinya sahaja.</description>
+Pengesahan (Authentication) #Senang cerita, sistem daftar akaun, log masuk, log keluar.</description>
+      
     </item>
     
     <item>
@@ -109,9 +104,8 @@ Profil dan Tetapan Pengguna (User Profile and Settings) Setiap aplikasi akan ada
       
       <guid>https://rsmn.github.io/posts/20180922-pembangunan-aplikasi-perlu-berapa-ramai-orang/</guid>
       <description>Seperti biasa jawapan paling selamat adalah, ia bergantung (it depends) pada hasil akhir yang ingin dicapai.
-Kalau saya tanya anda nak buat rumah teres setingkat, boleh buat dengan tenaga seramai 1 orang? Tentulah boleh. Nak siap cepat atau lambat? Bergantung. Pada kemahiran, pada peralatan, dan sebagainya. Nak buat menara berkembar Petronas KLCC boleh buat 10 orang?***
-Dan sudah tentu semua perkara ini akan menentukan kos akhir pembangunan aplikasi tersebut.
-Secara umum, sebuah aplikasi memerlukan kepakaran-kepakaran seperti di bawah.</description>
+Kalau saya tanya anda nak buat rumah teres setingkat, boleh buat dengan tenaga seramai 1 orang?</description>
+      
     </item>
     
     <item>
@@ -122,8 +116,8 @@ Secara umum, sebuah aplikasi memerlukan kepakaran-kepakaran seperti di bawah.</d
       <guid>https://rsmn.github.io/posts/20180921-anda-mahu-buat-aplikasi-apps/</guid>
       <description>Umumnya bila sebut apps, orang akan terbayang perisian yang digunakan pada peranti mudah alih anda.
 Tak semestinya. Aplikasi boleh dipasang dan dijalankan pada pelbagai platform.
-Secara mudahnya kita boleh bahagikan kepada beberapa kategori:
- Aplikasi Mudah Alih Aplikasi Desktop Aplikasi Web  Aplikasi Mudah Alih yang dominan di pasaran sekarang adalah aplikasi yang dimuat turun pada sistem operasi Android dan iOS. Contoh aplikasi mudah alih adalah Facebook for Android, Facebook for iOS, dan apa-apa lagi perisian yang anda jumpa di dalam Google Play Store atau Apple App Store.</description>
+Secara mudahnya kita boleh bahagikan kepada beberapa kategori:</description>
+      
     </item>
     
     <item>
@@ -133,8 +127,8 @@ Secara mudahnya kita boleh bahagikan kepada beberapa kategori:
       
       <guid>https://rsmn.github.io/posts/20180920-belajar-benda-baharu/</guid>
       <description>Dua tiga minggu ni saya diberi kesempatan untuk mengajar sekumpulan pelajar satu subjek yang tidak disukai ramai iaitu pengaturcaraan (programming). Mereka ini rata-rata tidak mempunyai latar belakang programming.
-Ruang kepakaran (domain expert) pelajar-pelajar saya ini adalah dalam bidang lain, iaitu biologi. Mereka belajar programming kerana mereka ada data-data yang sangat banyak, dan mereka ingin membangunkan sistem aplikasi yang boleh mengurus data-data ini.
-Bila saya tengok muka-muka mereka waktu sesi pembelajaran tu, memang jelas terpancar di wajah mereka betapa mencabarnya nak belajar bendalah ni.</description>
+Ruang kepakaran (domain expert) pelajar-pelajar saya ini adalah dalam bidang lain, iaitu biologi.</description>
+      
     </item>
     
   </channel>

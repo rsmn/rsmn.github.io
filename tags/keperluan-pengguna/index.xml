@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keperluan pengguna on sembang</title>
+    <title>keperluan pengguna on rsmn</title>
     <link>https://rsmn.github.io/tags/keperluan-pengguna/</link>
-    <description>Recent content in keperluan pengguna on sembang</description>
+    <description>Recent content in keperluan pengguna on rsmn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© rsmn</copyright>
+    <language>en</language>
+    <copyright>© 2024 rsmn</copyright>
     <lastBuildDate>Tue, 16 Feb 2021 08:56:08 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/tags/keperluan-pengguna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Membedah Keperluan Pengguna</title>
@@ -14,8 +14,8 @@
       <pubDate>Tue, 16 Feb 2021 08:56:08 +0800</pubDate>
       
       <guid>https://rsmn.github.io/posts/20210216-membedah-keperluan-pengguna/</guid>
-      <description>Sepanjang proses mencungkil keperluan pengguna (eliciting user requirements) untuk menghasilkan aplikasi tersuai, bacaan saya adalah kebanyakan pengguna tahu secara kasar apa mereka mahu. Masalah yang dihadapi biasanya mudah untuk diceritakan. Tapi tidak ramai yang tahu secara terperinci bentuk solusi yang diinginkan.
-Ada pembuat aplikasi yang mengenakan caj untuk proses konsultasi bagi menghasilkan dokumen keperluan pengguna, terutamanya bagi projek yang ultra besar dan ultra rumit. Ada juga yang memberikan secara percuma (atau mungkin diserap dalam kos akhir).</description>
+      <description>Sepanjang proses mencungkil keperluan pengguna (eliciting user requirements) untuk menghasilkan aplikasi tersuai, bacaan saya adalah kebanyakan pengguna tahu secara kasar apa mereka mahu. Masalah yang dihadapi biasanya mudah untuk diceritakan. Tapi tidak ramai yang tahu secara terperinci bentuk solusi yang diinginkan.</description>
+      
     </item>
     
   </channel>
