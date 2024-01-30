@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 rsmn</copyright>
-    <lastBuildDate>Tue, 30 Nov 2021 07:40:08 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 11:21:13 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA dan Testing dengan Laravel dan PHPUnit - Bahagian 1</title>
+      <link>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</link>
+      <pubDate>Tue, 30 Jan 2024 11:21:13 +0800</pubDate>
+      
+      <guid>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</guid>
+      <description>Quality control is a vital step in any manufacturing process. Can&amp;#39;t imagine this being an easy job mentally. Hats off to this woman. pic.twitter.com/aVhSGCZG67
+&amp;mdash; Quantum Voyager (@QuantumVoyages) January 28, 2024 Harini aku nak ajar korang pasal testing or some people call it QA.</description>
+      
+    </item>
+    
     <item>
       <title>Memudahkan kerja pengaturcara backend</title>
       <link>https://rsmn.github.io/posts/20211130-memudahkan-kerja-pengaturcara-backend/</link>
