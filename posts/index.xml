@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 rsmn</copyright>
-    <lastBuildDate>Tue, 30 Jan 2024 11:21:13 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 20:54:54 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2</title>
+      <link>https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/</link>
+      <pubDate>Sat, 03 Feb 2024 20:54:54 +0800</pubDate>
+      
+      <guid>https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/</guid>
+      <description>Dalam episod sebelum ni kita dah setup our Laravel endpoint dan jugak our first test.
+Kali ni kita nak tambah test untuk endpoint kita yang ke-2
+POST /api/rockets
+Boleh tambah roket dalam pipeline Bukak tests/Feature/RocketTest.</description>
+      
+    </item>
+    
     <item>
       <title>QA dan Testing dengan Laravel dan PHPUnit - Bahagian 1</title>
       <link>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</link>
@@ -94,7 +107,7 @@ Kali ini saya nak bawa konteks yang sama.</description>
       <description>&amp;ldquo;Bro boleh buatkan aku a simple app?&amp;rdquo;
 Kali ni saya mahu kongsikan apakah anatomi sesebuah aplikasi.
 Kebanyakan aplikasi mempunyai ciri-ciri asas yang sama.
-Pengesahan (Authentication) #Senang cerita, sistem daftar akaun, log masuk, log keluar.</description>
+Pengesahan (Authentication) # Senang cerita, sistem daftar akaun, log masuk, log keluar.</description>
       
     </item>
     

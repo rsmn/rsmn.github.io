@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qa on rsmn</title>
+    <link>https://rsmn.github.io/tags/qa/</link>
+    <description>Recent content in qa on rsmn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 rsmn</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 20:54:54 +0800</lastBuildDate><atom:link href="https://rsmn.github.io/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2</title>
+      <link>https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/</link>
+      <pubDate>Sat, 03 Feb 2024 20:54:54 +0800</pubDate>
+      
+      <guid>https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/</guid>
+      <description>Dalam episod sebelum ni kita dah setup our Laravel endpoint dan jugak our first test.
+Kali ni kita nak tambah test untuk endpoint kita yang ke-2
+POST /api/rockets
+Boleh tambah roket dalam pipeline Bukak tests/Feature/RocketTest.</description>
+      
+    </item>
+    
+    <item>
+      <title>QA dan Testing dengan Laravel dan PHPUnit - Bahagian 1</title>
+      <link>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</link>
+      <pubDate>Tue, 30 Jan 2024 11:21:13 +0800</pubDate>
+      
+      <guid>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</guid>
+      <description>Quality control is a vital step in any manufacturing process. Can&amp;#39;t imagine this being an easy job mentally. Hats off to this woman. pic.twitter.com/aVhSGCZG67
+&amp;mdash; Quantum Voyager (@QuantumVoyages) January 28, 2024 Harini aku nak ajar korang pasal testing or some people call it QA.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

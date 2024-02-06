@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://rsmn.github.io/posts/</loc>
-    <lastmod>2024-01-30T11:21:13+08:00</lastmod>
+    <lastmod>2024-02-03T20:54:54+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</loc>
-    <lastmod>2024-01-30T11:21:13+08:00</lastmod>
+    <loc>https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/</loc>
+    <lastmod>2024-02-03T20:54:54+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://rsmn.github.io/</loc>
+    <lastmod>2024-02-03T20:54:54+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/</loc>
     <lastmod>2024-01-30T11:21:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

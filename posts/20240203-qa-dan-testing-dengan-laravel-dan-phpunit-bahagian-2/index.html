@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Memiliki Aplikasi Sendiri &middot; rsmn</title>
-  <meta name="title" content="Memiliki Aplikasi Sendiri &middot; rsmn" />
+  <title>QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2 &middot; rsmn</title>
+  <meta name="title" content="QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2 &middot; rsmn" />
   
   
-  <meta name="keywords" content="aplikasi, " />
+  <meta name="keywords" content="qa, " />
   
   
-  <link rel="canonical" href="https://rsmn.github.io/posts/20210210-memiliki-aplikasi-sendiri/" />
+  <link rel="canonical" href="https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/" />
   
   
   
@@ -60,16 +60,22 @@
   
   
   
-  <meta property="og:title" content="Memiliki Aplikasi Sendiri" />
-<meta property="og:description" content="Kalau saya tanya berapa harga kereta Myvi, mungkin ramai yang boleh beritahu saya harganya sekarang. Tetapi kalau saya tanya berapa harga kalau nak mintak kereta yang ada enjin Proton Preve, interior Honda City, sistem brek Perodua Myvi, dan gabungan beberapa lagi jenama lain, pasti sukar nak meneka harga." />
+  <meta property="og:title" content="QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2" />
+<meta property="og:description" content="Dalam episod sebelum ni kita dah setup our Laravel endpoint dan jugak our first test.
+Kali ni kita nak tambah test untuk endpoint kita yang ke-2
+POST /api/rockets
+Boleh tambah roket dalam pipeline Bukak tests/Feature/RocketTest." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://rsmn.github.io/posts/20210210-memiliki-aplikasi-sendiri/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-02-10T09:58:43+08:00" />
-<meta property="article:modified_time" content="2021-02-10T09:58:43+08:00" />
+<meta property="og:url" content="https://rsmn.github.io/posts/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-03T20:54:54+08:00" />
+<meta property="article:modified_time" content="2024-02-03T20:54:54+08:00" />
 
 
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Memiliki Aplikasi Sendiri"/>
-<meta name="twitter:description" content="Kalau saya tanya berapa harga kereta Myvi, mungkin ramai yang boleh beritahu saya harganya sekarang. Tetapi kalau saya tanya berapa harga kalau nak mintak kereta yang ada enjin Proton Preve, interior Honda City, sistem brek Perodua Myvi, dan gabungan beberapa lagi jenama lain, pasti sukar nak meneka harga."/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2"/>
+<meta name="twitter:description" content="Dalam episod sebelum ni kita dah setup our Laravel endpoint dan jugak our first test.
+Kali ni kita nak tambah test untuk endpoint kita yang ke-2
+POST /api/rockets
+Boleh tambah roket dalam pipeline Bukak tests/Feature/RocketTest."/>
 
   
   <script type="application/ld+json">
@@ -77,26 +83,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "Memiliki Aplikasi Sendiri",
-    "headline": "Memiliki Aplikasi Sendiri",
+    "name": "QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2",
+    "headline": "QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2",
     
-    "abstract": "Kalau saya tanya berapa harga kereta Myvi, mungkin ramai yang boleh beritahu saya harganya sekarang. Tetapi kalau saya tanya berapa harga kalau nak mintak kereta yang ada enjin Proton Preve, interior Honda City, sistem brek Perodua Myvi, dan gabungan beberapa lagi jenama lain, pasti sukar nak meneka harga.",
+    "abstract": "Dalam episod sebelum ni kita dah setup our Laravel endpoint dan jugak our first test.\nKali ni kita nak tambah test untuk endpoint kita yang ke-2\nPOST \/api\/rockets\nBoleh tambah roket dalam pipeline Bukak tests\/Feature\/RocketTest.",
     "inLanguage": "en",
-    "url" : "https:\/\/rsmn.github.io\/posts\/20210210-memiliki-aplikasi-sendiri\/",
+    "url" : "https:\/\/rsmn.github.io\/posts\/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2\/",
     "author" : {
       "@type": "Person",
       "name": "rsmn"
     },
-    "copyrightYear": "2021",
-    "dateCreated": "2021-02-10T09:58:43\u002b08:00",
-    "datePublished": "2021-02-10T09:58:43\u002b08:00",
+    "copyrightYear": "2024",
+    "dateCreated": "2024-02-03T20:54:54\u002b08:00",
+    "datePublished": "2024-02-03T20:54:54\u002b08:00",
     
-    "dateModified": "2021-02-10T09:58:43\u002b08:00",
+    "dateModified": "2024-02-03T20:54:54\u002b08:00",
     
-    "keywords": ["aplikasi"],
+    "keywords": ["qa"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "704"
+    "wordCount": "525"
   }]
   </script>
 
@@ -374,7 +380,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Memiliki Aplikasi Sendiri
+      QA dan Testing dengan Laravel dan PHPUnit - Bahagian 2
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -419,7 +425,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2021-02-10 09:58:43 &#43;0800 &#43;08">10 February 2021</time><span class="px-2 text-primary-500">&middot;</span><span>704 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span>
+  <time datetime="2024-02-03 20:54:54 &#43;0800 &#43;08">3 February 2024</time><span class="px-2 text-primary-500">&middot;</span><span>525 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
   
 
   
@@ -443,10 +449,10 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/aplikasi/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/qa/&#34;,'_self');">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    aplikasi
+    qa
   </span>
 </span>
   </span>
@@ -557,40 +563,129 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>Kalau saya tanya berapa harga kereta Myvi, mungkin ramai yang boleh beritahu saya harganya sekarang. Tetapi kalau saya tanya berapa harga kalau nak mintak kereta yang ada enjin Proton Preve, interior Honda City, sistem brek Perodua Myvi, dan gabungan beberapa lagi jenama lain, pasti sukar nak meneka harga.</p>
-<p>Kesukaran meneka harga ini bukanlah sesuatu yang mengejutkan. Sekarang kalau anda tanya pula mereka yang pakar dalam bidang automotif, pasti mereka tahu untuk mengagak harga kereta gabungan ini.</p>
-<p>Dan saya pasti harganya lebih mahal. Sesuatu barangan yang dikeluarkan secara besar-besaran (mass produce) akan mempunyai harga yang lebih rendah berbanding sesuatu yang ditempah khas/tersuai (custom made).</p>
-<p>Mass production berlaku dengan bantuan automatsi (automation). Automation bermaksud kurang tenaga pekerja diperlukan maka diterjemah kepada pengurangan kos.</p>
-<hr>
-<p>Begitu juga dengan pembinaan aplikasi.</p>
-<p>Ramai yang ingin memiliki aplikasi sendiri tetapi ramai yang tidak tahu berapa ringgit sebenarnya kos pembinaan sesebuah aplikasi ni.</p>
-<p>Apa yang perlu kita bezakan adalah adakah kita membayar harga untuk memiliki aplikasi, atau kita membayar untuk mendapatkan perkhidmatan melalui aplikasi?</p>
-<p>Kebanyakan daripada kita yang pernah &ldquo;membeli&rdquo; aplikasi, selalunya bukanlah mereka membeli hak pemilikan terhadap aplikasi tersebut, akan tetapi mereka hanyalah membeli perkhidmatan yang ditawarkan oleh aplikasi tersebut.</p>
-<p>Sebagai contoh, kita membayar RM50 sebulan untuk aplikasi Netflix, dan kita dapat menonton rancangan-rancangan yang ditawarkan melalui aplikasi tersebut. Sama juga seperti perkhidmatan Grab, kita hanya perlu membayar RM10 untuk menggunakan kereta.</p>
-<p>Di sana juga ada aplikasi yang seolah-olah anda tidak perlu membayar apa-apa untuk menggunakannya. Contohnya, Instagram. Ada kena bayar apa-apa kalau nak guna? (Bayar dengan privasi anda 😭)</p>
-<p>Pada tahun 2012, Facebook telah membeli Instagram dengan harga USD 1 bilion. Perlu difahami yang dibeli oleh Facebook bukan semata-mata kod sumber (source code) Instagram, akan tetapi segala yang dimiliki oleh syarikat Instagram termasuklah kod sumbernya sekali.</p>
-<p>Jadi berapa harga untuk memiliki kod sumber sesebuah aplikasi?</p>
-<p>Saya pernah sentuh dalam hantaran sebelum ini. Kesimpulannya, ia bergantung kepada beberapa faktor. Antaranya adalah tahap kerumitan (complexity), siapa yang ingin membeli dan siapa yang ingin menjual.</p>
-<hr>
-<p>Keperluan pengguna (requirement) untuk kebanyakan pengguna Grab mudah dan jelas. Nak bergerak dari titik A ke titik B. Ini kategori mereka yang inginkan perkhidmatan. Harga selalunya kita boleh kata ini paling murah.</p>
-<p>Seterusnya ada pelanggan yang nak memiliki kereta yang sudah di mass produce. Ini harganya jelas. Harga bermula 30k-100k dah boleh memiliki kereta jenis ini.</p>
-<p>Tapi ada juga pelanggan yang inginkan sesuatu yang lebih custom. Terutamanya pelanggan perniagaan (business customer). Analoginya, seolah-olah ada pelanggan yang nak beli food truck. Dan ini bukan sebarang food truck. Dia ada keperluan yang khusus (specific) untuk perniagaan dia sahaja. Dia nak food truck yang pelanggan boleh singgah dan pesan makanan, ada ruangan untuk simpan inventori yang extra panjang. Ada peti ais terbina sebab mereka menjual barangan yang perlukan penyejukan. Ada itu dan ini dan macam-macam lagi.</p>
-<p>Semakin custom permintaan, harga akan semakin tinggi.</p>
-<hr>
-<p>Kesimpulan yang saya cuba sampaikan adalah, fahami betul-betul apa yang kita mahu.</p>
-<p>Tak semua orang mampu memiliki aplikasi terutamanya aplikasi tersuai (custom).</p>
-<p>Habis tu tak kesian ke dekat SME atau peniaga-peniaga kecil yang tak mampu nak memiliki aplikasi ni?</p>
-<p>Berbalik kepada apa yang saya sebutkan tadi, kita perlu faham apa yang kita mahu dan apa yang tersedia di luar sana.</p>
-<p>Sebagai pengguna, kita boleh pilih dari senarai berikut:</p>
-<ol>
-<li>Beli perkhidmatan melalui aplikasi siap dibina. Contoh: Netflix, Orderla.my, Facebook Ads, Instagram Ads.</li>
-<li>Beli perkhidmatan membuat aplikasi melalui aplikasi yang siap dibina. Contoh: Wordpress, Webflow, Glide Apps.</li>
-<li>Beli aplikasi yang telah siap dibina tetapi dengan fungsi yang tetap dan tidak tersuai. Contoh: Sistem Template dan Plugin Wordpress.</li>
-<li>Beli aplikasi tersuai (atau membeli perkhidmatan membuat aplikasi tersuai). Kita bayar freelancer atau syarikat untuk hasilkan mengikut keperluan khusus. Ini mahal, boleh jadi puluhan ribu, ratusan ribu, dan boleh mencecah juta.</li>
+          <p>Dalam <a href="https://rsmn.github.io/posts/20240130-qa-dan-testing-laravel-dan-phpunit/"  >
+    episod sebelum ni</a> kita dah setup our Laravel endpoint dan jugak our first test.</p>
+<p>Kali ni kita nak tambah test untuk endpoint kita yang ke-2</p>
+<blockquote>
+<p><code>POST /api/rockets</code></p>
+<ol start="2">
+<li>Boleh tambah roket dalam pipeline</li>
 </ol>
-<p>Secara peribadi, saya merasakan jurang antara no 2/3 dengan no 4 adalah agak besar. No 2/3 mungkin murah tapi learning curve agak tinggi dan sukar nak dapatkan hasil seperti no 4. AI (Kecerdasan buatan) mungkin boleh mengurangkan jurang ini satu masa nanti siapa tahu.</p>
-<p>Semakin hari semakin banyak syarikat yang mula mengeluarkan no-code platform (platform tanpa pengekodan). Saya pernah mencuba beberapa tapi masih belum berpuas hati. Masih belum boleh menggantikan pembangun aplikasi sepenuhnya.</p>
-<p>Moga-moga satu hari nanti ada produk yang boleh memenuhi kelompongan untuk mereka-mereka yang tak mampu nak memiliki aplikasi tersuai.</p>
+</blockquote>
+<p>Bukak <code>tests/Feature/RocketTest.php</code> yang kita dah generate haritu dan tambah the following test</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"><span class="k">class</span> <span class="nc">RocketTest</span> <span class="k">extends</span> <span class="nx">TestCase</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">use</span> <span class="nx">RefreshDatabase</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="c1">// ..previous tests
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line hl"><span class="cl">    <span class="k">public</span> <span class="k">function</span> <span class="nf">test_can_post_api_rockets</span><span class="p">()</span><span class="o">:</span> <span class="nx">void</span>
+</span></span><span class="line hl"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Send a POST request to the endpoint
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$response</span> <span class="o">=</span> <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">post</span><span class="p">(</span><span class="s1">&#39;/api/rockets&#39;</span><span class="p">,</span> <span class="p">[</span>
+</span></span><span class="line hl"><span class="cl">            <span class="s1">&#39;name&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;Test Rocket&#39;</span><span class="p">,</span>
+</span></span><span class="line hl"><span class="cl">            <span class="s1">&#39;status&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;preparing&#39;</span><span class="p">,</span>
+</span></span><span class="line hl"><span class="cl">        <span class="p">]);</span>
+</span></span><span class="line hl"><span class="cl">
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Checks if it returns 201 status code aka success
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$response</span><span class="o">-&gt;</span><span class="na">assertStatus</span><span class="p">(</span><span class="mi">201</span><span class="p">);</span>
+</span></span><span class="line hl"><span class="cl">
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Second check if in the database there is a rocket with the name we gave earlier
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">assertDatabaseHas</span><span class="p">(</span><span class="s1">&#39;rockets&#39;</span><span class="p">,</span> <span class="p">[</span><span class="s1">&#39;name&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;Test Rocket&#39;</span><span class="p">]);</span>
+</span></span><span class="line hl"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre></div>
+<p>Cuba run test. Boleh guna <code>--filter</code> untuk only run test yang kita nak</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vendor/bin/phpunit --filter test_can_post_api_rockets
+</span></span></code></pre></div><p>Success.</p>
+
+
+  <figure><img src="qaphpunitsuccess.png"
+         alt="phpunit"/>
+</figure>
+
+
+
+<p>Next kita tambah pulak test untuk the final endpoint</p>
+<blockquote>
+<p><code>PUT /api/rockets/{rocket}</code></p>
+<ol start="3">
+<li>Boleh lancarkan roket</li>
+</ol>
+</blockquote>
+<p>Lagi sekali bukak <code>tests/Feature/RocketTest.php</code> dan tambah the following test pulak</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"><span class="k">class</span> <span class="nc">RocketTest</span> <span class="k">extends</span> <span class="nx">TestCase</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl"><span class="k">use</span> <span class="nx">RefreshDatabase</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="c1">// ..previous tests
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line hl"><span class="cl">    <span class="k">public</span> <span class="k">function</span> <span class="nf">test_can_put_api_rockets</span><span class="p">()</span><span class="o">:</span> <span class="nx">void</span>
+</span></span><span class="line hl"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Setup test rocket with initial status of &#34;preparing&#34;
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$rocket</span> <span class="o">=</span> <span class="nx">Rocket</span><span class="o">::</span><span class="na">factory</span><span class="p">()</span><span class="o">-&gt;</span><span class="na">create</span><span class="p">([</span>
+</span></span><span class="line hl"><span class="cl">            <span class="s1">&#39;name&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;Test Rocket&#39;</span><span class="p">,</span>
+</span></span><span class="line hl"><span class="cl">            <span class="s1">&#39;status&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;preparing&#39;</span><span class="p">,</span>
+</span></span><span class="line hl"><span class="cl">        <span class="p">]);</span>
+</span></span><span class="line hl"><span class="cl">
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Send a PUT request to the endpoint and change status to &#34;ready to launch&#34;
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$response</span> <span class="o">=</span> <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">put</span><span class="p">(</span><span class="s2">&#34;/api/rockets/</span><span class="si">{</span><span class="nv">$rocket</span><span class="o">-&gt;</span><span class="na">id</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">,</span> <span class="p">[</span>
+</span></span><span class="line hl"><span class="cl">            <span class="s1">&#39;status&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;ready to launch&#39;</span><span class="p">,</span>
+</span></span><span class="line hl"><span class="cl">        <span class="p">]);</span>
+</span></span><span class="line hl"><span class="cl">
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Checks if it returns 200 status code aka success
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$response</span><span class="o">-&gt;</span><span class="na">assertStatus</span><span class="p">(</span><span class="mi">200</span><span class="p">);</span>
+</span></span><span class="line hl"><span class="cl">
+</span></span><span class="line hl"><span class="cl">        <span class="c1">// Second check if in the database there is a rocket with the new status
+</span></span></span><span class="line hl"><span class="cl"><span class="c1"></span>        <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">assertDatabaseHas</span><span class="p">(</span><span class="s1">&#39;rockets&#39;</span><span class="p">,</span> <span class="p">[</span><span class="s1">&#39;status&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;ready to launch&#39;</span><span class="p">]);</span>
+</span></span><span class="line hl"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre></div>
+<p>Run test for this endpoint pulak</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vendor/bin/phpunit --filter test_can_put_api_rockets
+</span></span></code></pre></div><p>Green.</p>
+
+
+  <figure><img src="qaphpunitsuccessputrockets.png"
+         alt="phpunit 2"/>
+</figure>
+
+
+
+<p>Finally run semua test.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vendor/bin/phpunit
+</span></span></code></pre></div><p>Semua hijau. Syukurr.</p>
+
+
+  <figure><img src="qaphpunitsuccessall.png"
+         alt="phpunit all"/>
+</figure>
+
+
+
+<p>Now tinggal satu je benda. Kita nak matchkan the original instruction dengan nama-nama yang kita guna untuk test method kita.</p>
+<p>Ideally each &ldquo;acceptance test&rdquo; should have some kind of index. Something like F01, F02 or something.</p>
+<p>Tengok balik senarai acceptance test yang kita dapat dari boss kita haritu.</p>
+<blockquote>
+<ol>
+<li>Boleh senaraikan semua roket along with their status (preparing, ready to launch, hit, missed)</li>
+<li>Boleh tambah roket dalam pipeline</li>
+<li>Boleh lancarkan roket</li>
+</ol>
+</blockquote>
+<p>Ni pulak senarai test method yang aku dah siap rename so that next time nak cari hubungkait tak berapa nak struggle.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"><span class="k">public</span> <span class="k">function</span> <span class="nf">test_01_boleh_senaraikan_semua_roket_along_with_their_status</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl"><span class="k">public</span> <span class="k">function</span> <span class="nf">test_02_boleh_tambah_roket_dalam_pipeline</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl"><span class="k">public</span> <span class="k">function</span> <span class="nf">test_03_boleh_lancarkan_roket</span> <span class="p">{}</span>
+</span></span></code></pre></div><p>Any document selalunya is a living document. So most probably wording untuk acceptance test tu akan berubah. Tapi at least numbering tu tak berubah so kita boleh refer numbering dia je.</p>
+<p>Mostly test kita so far only cover whether an endpoint returns benda yang sepatutnya dia return.</p>
+<p>Ada banyak lagi benda kita boleh test:</p>
+<ol>
+<li>Authorization Test - Adakah endpoint tu boleh diakses oleh Role yang sepatutnya</li>
+<li>Validation Test - Adakah endpoint tu boleh handle kepelbagaian input yang tidak sepatutnya dan yang sepatutnya</li>
+<li>Performance Test - Adakah endpoint boleh handle high workload. Ni pun boleh pecah lagi kalau nak. Test whether system boleh meet minimum performance standard (load test). Test max out workload nak tengok break kat mana (stress test). Test kalau spike tiba-tiba boleh handle tak (spike test). Test kalau normal workload tapi long running (endurance test).</li>
+</ol>
+<p>Ok itu sahaja untuk posting kali ni. Hopefully kita boleh cover test-test lain lepas ni. Jumpa lagi.</p>
 
         </div>
                 
@@ -603,8 +698,8 @@
      
     
      <script>
-        var oid = "views_posts\/20210210-memiliki-aplikasi-sendiri\/index.md"
-        var oid_likes = "likes_posts\/20210210-memiliki-aplikasi-sendiri\/index.md"
+        var oid = "views_posts\/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2\/index.md"
+        var oid_likes = "likes_posts\/20240203-qa-dan-testing-dengan-laravel-dan-phpunit-bahagian-2\/index.md"
       </script>
       
       
@@ -624,7 +719,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/20190812-cipta-aplikasi-tanpa-pengekodan/">
+            <a class="flex group mr-3" href="/posts/20240130-qa-dan-testing-laravel-dan-phpunit/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -636,11 +731,11 @@
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Cipta aplikasi tanpa pengekodan</span
+                  >QA dan Testing dengan Laravel dan PHPUnit - Bahagian 1</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2019-08-12 07:35:07 &#43;0800 &#43;08">12 August 2019</time>
+                    <time datetime="2024-01-30 11:21:13 &#43;0800 &#43;08">30 January 2024</time>
                   
                 </span>
               </span>
@@ -648,28 +743,6 @@
           
         </span>
         <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/20210216-membedah-keperluan-pengguna/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Membedah Keperluan Pengguna</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2021-02-16 08:56:08 &#43;0800 &#43;08">16 February 2021</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-            </a>
           
         </span>
       </div>
