@@ -4,9 +4,8 @@
     <title>Series on rsmn</title>
     <link>https://rsmn.github.io/series/</link>
     <description>Recent content in Series on rsmn</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 rsmn</copyright>
     <atom:link href="https://rsmn.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
